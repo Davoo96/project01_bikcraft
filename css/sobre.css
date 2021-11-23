@@ -1,0 +1,26 @@
+.inner-sobre {
+  background: url(../img/esporte-2.png) center no-repeat;
+  background-size: cover;
+}
+
+.missao-sobre {
+  padding-top: 60px;
+}
+
+.missao-sobre p {
+  font-size: 18px;
+  line-height: 25px;
+  margin-bottom: 1em;
+  padding-right: 40px;
+}
+
+.missao-sobre ul li {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 18px;
+  line-height: 30px;
+  margin-bottom: 1em;
+}
+
+.foto-equipe {
+  padding-top: 20px;
+}
